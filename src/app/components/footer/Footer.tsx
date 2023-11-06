@@ -22,7 +22,7 @@ const Footer = () => {
                         <Link href="#">Contact us</Link>
                         <Link href="#">Laptops</Link>
                         <Link href="#">Desktops</Link>
-                        <Link href="#">Wathess</Link>
+                        <Link href="#">Watches</Link>
                     </FooterList>
                     <div className="w-full md:w-1/3 mb-6">
                         <h3 className="text-base font-bold mb-2">About Us</h3>
