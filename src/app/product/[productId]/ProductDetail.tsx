@@ -43,7 +43,6 @@ const ProductDetail: React.FC<IProductDetail> = ({ product }) => {
             price: product.price,
         }
     );
-    console.log(cartProducts);
     useEffect(()=>{
         setIsProductInCart(false);
         if(cartProducts){
