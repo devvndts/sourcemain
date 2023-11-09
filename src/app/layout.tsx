@@ -18,6 +18,8 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+
+ 
   return (
     <html lang="en">
       <body className={`${poppins.className} text-slate-700`}>

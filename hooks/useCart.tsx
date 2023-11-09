@@ -1,5 +1,5 @@
-import SetQuantity from "@/app/components/product/SetQuantity";
-import { CartProductType } from "@/app/product/[productId]/ProductDetail";
+import SetQuantity from "@/src/app/components/product/SetQuantity";
+import { CartProductType } from "@/src/app/product/[productId]/ProductDetail";
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
 import { toast } from "react-hot-toast";
 

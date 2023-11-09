@@ -19,10 +19,10 @@ const Button: React.FC<ButtonProps> = ({
         <button disabled={disabled} onClick={onClick} className={`disabled: opacity-70
          disabled:cursor-not-allowed 
          rounded-md 
-         hover: opacity-80 
+         hover:opacity-80 
          transition 
          w-full 
-         border-stale-700 
+         border-slate-700 
          flex 
          items-center 
          justify-center 

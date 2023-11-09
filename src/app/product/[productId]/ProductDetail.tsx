@@ -1,8 +1,8 @@
 'use client'
-import Button from "@/app/Button"
-import ProductImage from "@/app/components/ProductImage"
-import SetQuantity from "@/app/components/product/SetQuantity"
-import SetColor from "@/app/components/product/Setcolor"
+import Button from "../../Button"
+import ProductImage from "../../components/ProductImage"
+import SetQuantity from "../../components/product/SetQuantity"
+import SetColor from "../../components/product/Setcolor"
 import { Rating } from "@mui/material"
 import { type } from "os"
 import { useCallback, useEffect, useState } from "react"
